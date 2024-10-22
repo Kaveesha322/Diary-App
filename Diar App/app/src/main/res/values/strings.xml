@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Start">START</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="more" />
+    <string name="More">More</string>
+    <string name="home">HOME</string>
+    <string name="diary">diary</string>
+    <string name="bin">bin</string>
+    <string name="recent">recent</string>
+    <string name="moredetail">moredetail</string>
+    <string name="back">back</string>
+    <string name="My_Diary">MY DIARY</string>
+    <string name="enterEmail">Enter Email</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="RePassword">Re-Password</string>
+    <string name="logintoyouracc">LOGIN TO YOUR ACCOUNT</string>
+    <string name="loginMail">Enter your email</string>
+    <string name="loginpass">Password</string>
+    <string name="more1">MORE</string>
+    <string name="profile">Profile</string>
+    <string name="home1">Home</string>
+    <string name="memo">Memo</string>
+    <string name="profile3">PROFILE</string>
+    <string name="name">"Name : "</string>
+    <string name="age">Age</string>
+    <string name="Bio">Bio :</string>
+    <string name="memo1">MEMO</string>
+    <string name="diaryDes1">"21/02/2024 First text of the diary "</string>
+    <string name="text">"        "</string>
+</resources>
